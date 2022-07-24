@@ -19,4 +19,12 @@ everyday about most searched category, range of age, quality of each category an
 - Seaborn
 
 ## Anaysis of Data
-<img src= "">
+<img src= "https://raw.githubusercontent.com/tanmaypradhan4112/Prediction-of-Trend/main/images/age.png" alt="graph of range of age">
+
+<img src="https://raw.githubusercontent.com/tanmaypradhan4112/Prediction-of-Trend/main/images/category.png" alt="graph of most searched category">
+
+<img src="https://raw.githubusercontent.com/tanmaypradhan4112/Prediction-of-Trend/main/images/productrating.png" alt="overall rating of product">
+
+<img src="https://raw.githubusercontent.com/tanmaypradhan4112/Prediction-of-Trend/main/images/usageofproduct.png" alt="usage of product">
+
+<img src="https://raw.githubusercontent.com/tanmaypradhan4112/Prediction-of-Trend/main/images/trend.png" alt="trend">
